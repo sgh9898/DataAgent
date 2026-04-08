@@ -43,7 +43,7 @@ public class DataAgentProperties {
 	/**
 	 * sql执行失败重试次数
 	 */
-	private int maxSqlRetryCount = 10;
+	private int maxSqlRetryCount = 20;
 
 	/**
 	 * sql优化最多次数
